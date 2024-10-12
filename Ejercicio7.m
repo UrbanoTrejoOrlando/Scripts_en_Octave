@@ -2,7 +2,7 @@
 % Title           :Funciones Trascendentes: Trigonométricas, Logarítmicas y Exponenciales (Ejercicio7)
 % Correo          :urbanoorlando79@gmail.com
 % Description     :Script para graficar funciones y determinar que tipo de funcion es.
-% Author          :Orlando Urbano Trejo (Lando)
+% Author          :Orlando Urbano Trejo (Starlord)
 % Date            :23_11_2021
 % Version         :1
 % Usage           :octave>path/Ejercicio7
