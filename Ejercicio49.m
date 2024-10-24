@@ -1,8 +1,8 @@
 % Octave Script
 % Title	        :Sumas de Rieman
 % Correo        :orlandourbanotrejo@gmail.com
-% Description	: Grafique mediante sumas de riemman 
-%                 el area bajo la curva de la funcion f(x)= x^2 -1 en un intervalo cerrado de [1, 4].
+% Description	:Grafique mediante sumas de riemman 
+%                el area bajo la curva de la funcion f(x)= x^2 -1 en un intervalo cerrado de [1, 4].
 % Author	    :Orlando Urbano Trejo 
 % Date		    :01_05_2021
 % Version	    :1
